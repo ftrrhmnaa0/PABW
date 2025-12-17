@@ -1,0 +1,11 @@
+{
+    "name": "Lowongan",
+    "alias": "lowongan",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Lowongan\\Providers\\LowonganServiceProvider"
+    ],
+    "files": []
+}

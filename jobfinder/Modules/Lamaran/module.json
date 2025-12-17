@@ -1,0 +1,11 @@
+{
+    "name": "Lamaran",
+    "alias": "lamaran",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Lamaran\\Providers\\LamaranServiceProvider"
+    ],
+    "files": []
+}

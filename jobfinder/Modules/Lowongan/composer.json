@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/lowongan",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Lowongan\\": "app/",
+            "Modules\\Lowongan\\Database\\Factories\\": "database/factories/",
+            "Modules\\Lowongan\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Lowongan\\Tests\\": "tests/"
+        }
+    }
+}
